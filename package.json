@@ -1,0 +1,15 @@
+{
+  "name": "webfingerd",
+  "version": "0.0.1",
+  "description": "",
+  "main": "daemon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "dependencies": {
+    "express": "~4.4.1",
+    "cors": "~2.3.1"
+  }
+}
