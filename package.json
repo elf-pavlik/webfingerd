@@ -1,12 +1,27 @@
 {
   "name": "webfingerd",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.2",
+  "description": "simple webfinger daemon in node.js",
   "main": "daemon.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elf-pavlik/webfingerd"
+  },
+  "bugs": {
+    "url": "https://github.com/elf-pavlik/webfingerd/issues"
+  },
+  "keywords": [
+    "webfinger",
+    "daemon"
+  ],
+  "author": {
+    "name": "elf Pavlik",
+    "email": "perpetual-tripper@wwelves.org",
+    "url": "https://wwelves.org/perpetual-tripper"
+  },
   "license": "Unlicense",
   "dependencies": {
     "express": "~4.4.1",
